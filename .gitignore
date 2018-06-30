@@ -1,0 +1,6 @@
+# Terraform related
+.terraform
+terraform.tfstate*
+
+# Temporary SSH keys
+.ssh/
