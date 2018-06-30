@@ -300,7 +300,3 @@ Code: 403. Errors:
 
 * permission denied
 ```
-
-TODOs:
-
-- [ ] Show how to create an application to use for mounting the Azure Auth Method using active directory.
