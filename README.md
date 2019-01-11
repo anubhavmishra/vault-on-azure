@@ -165,7 +165,7 @@ vault login "root"
 Write a dev policy file 
 
 ```bash
-echo 'path "secret/data/example" {
+echo 'path "secret/example" {
   capabilities = ["read", "list"]
 }' > dev.hcl
 ```
