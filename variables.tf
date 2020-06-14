@@ -29,7 +29,3 @@ variable "cmd_script" {
   description = "Script to download which can be executed by the custom script extension"
   default     = "https://gist.githubusercontent.com/anubhavmishra/0b6eb19f38e63bb2eb9d459fd1c53b1d/raw/696eea84b8d12cd099c283439c2c412ae13d308d/vault-install.sh"
 }
-
-variable "ssh_key_public" {}
-
-variable "ssh_key_private" {}
